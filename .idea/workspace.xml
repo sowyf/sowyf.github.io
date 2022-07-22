@@ -9,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -44,6 +45,7 @@
       <updated>1658250837151</updated>
       <workItem from="1658250838437" duration="344000" />
       <workItem from="1658388603058" duration="53000" />
+      <workItem from="1658474098079" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="Delete README.md">
       <created>1658250864208</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658251085379</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Delete README.md">
+      <created>1658474172346</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658474172346</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
